@@ -4,7 +4,7 @@
 Predicting brain age from structural MRI features and cognitive scores using machine learning with SHAP-based region-wise explainability.
 
 ## Results
-- Best MAE: 4.06 years (Random Forest with subcortical features)
+- Best MAE: 4.19 years (Random Forest with subcortical features)
 - Most important regions: Left posterior cingulate, Right medial orbitofrontal, Left insula
 
 ## Repository Contents
